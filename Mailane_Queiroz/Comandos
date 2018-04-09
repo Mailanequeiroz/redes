@@ -1,0 +1,42 @@
+1- ~$ pwd
+/home/alunos
+
+2- ~$ mkdir my_test
+~$ cd my_test
+~/my_test$ mkdir my_work
+~/my_test$ mkdir job1
+~/my_test$ cd job1
+~/my_test/job1$ mkdir task1
+~/my_test/job1$ 
+
+3- ~$ cd my_test
+~/my_test$ cd my_work
+~/my_test/my_work$ 
+
+4- ~/my_test/my_work$ touch numbers.txt
+~/my_test/my_work$ nano numbers.txt
+
+5- ~/my_test/my_work$ cp numbers.txt numbers1.txt
+~/my_test/my_work$ cp numbers.txt numbers2.txt
+
+6- cp * .txt ../job1/task1
+
+7- cd ../job1/task1
+ls -la
+
+8- chmod 755 numbers.txt
+
+9- chmod chmod 644 números1.txt
+
+10- cp -r ../task1 / home / aluno /
+
+11- nano my_work
+
+12- sudo rm -r task1
+
+13- cd / bin
+ls > /home/aluno/listabin.txt
+
+14- limpar
+
+15- ls -la
